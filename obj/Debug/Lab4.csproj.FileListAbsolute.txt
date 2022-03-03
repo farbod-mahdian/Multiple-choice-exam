@@ -1,0 +1,13 @@
+C:\Users\Farbod\source\repos\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Farbod\source\repos\Lab4\bin\Debug\Lab4.exe
+C:\Users\Farbod\source\repos\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.exe
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.Form_login.resources
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.Form_question.resources
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.Form_result.resources
+C:\Users\Farbod\source\repos\Lab4\obj\Debug\Lab4.Form_inst.resources
